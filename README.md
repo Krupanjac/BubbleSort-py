@@ -1,4 +1,4 @@
-#Arsen Djudjev, 2022, January
+## Arsen Djudjev, 2022, January
 
 # BubbleSort-pygame-python
 
